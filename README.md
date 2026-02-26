@@ -7,7 +7,7 @@ Flight Envelope Analysis: Computation of level flight boundaries, absolute ceili
 Take-off & Landing Analysis: Simulation of ground runs to determine Decision Speed and Balanced Field Length for various safety scenarios (AEO and OEI). The employed method is taken from "Airplane design" by Dr. Jan Roskam: while some of parameters used for this method are tabulated coefficients, others are assumptions derived from estimates based on available technical drawings and images. \
 Comparison With Competitors: A statistical comparison of wing loading and thrust-to-weight ratios against industry competitors. 
 # Repository Structure
-LABORATORIO_BD700.m: Main execution script containing the simulation and plot generation. \
+LABORATORIO_BD700.zip: Contains main execution script containing the simulation and plot generation and necessary files. \
 Prestazioni_velivolo.pdf: report detailing the mathematical models and performance results. \
 Data/: Directory containing aerodynamic polar data and engine thrust tables.
 # How to Run
