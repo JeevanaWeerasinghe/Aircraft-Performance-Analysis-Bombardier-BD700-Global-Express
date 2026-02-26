@@ -9,7 +9,6 @@ Comparison With Competitors: A statistical comparison of wing loading and thrust
 # Repository Structure
 LABORATORIO_BD700.zip: Contains main execution script containing the simulation and plot generation and necessary files. \
 Prestazioni_velivolo.pdf: report detailing the mathematical models and performance results. \
-Data/: Directory containing aerodynamic polar data and engine thrust tables.
 # How to Run
 Ensure BD700_polar.txt and BD700_thrust.txt are in the working directory. \
 Run LABORATORIO_BD700.m in MATLAB to generate the performance curves and comparative analysis plots.
